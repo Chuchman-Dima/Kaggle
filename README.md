@@ -13,4 +13,4 @@
 
 ## 📂 Структура репозиторію
 Кожна папка містить окреме дослідження:
-- [x] Boston-House-Price-Data — прогнозування вартості нерухомості за допомогою моделі Linear Regression та Random Forest.
+1) Boston-House-Price-Data — прогнозування вартості нерухомості за допомогою моделі Linear Regression та Random Forest.
