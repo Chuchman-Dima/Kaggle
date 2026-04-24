@@ -8,5 +8,5 @@
 
 ## Технологічний стек
 - Мова: Python
-- Бібліотеки: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Бібліотеки: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, CatBoost, LightGBM, XGBoost
 - Середовище: Jupyter Notebook / PyCharm
