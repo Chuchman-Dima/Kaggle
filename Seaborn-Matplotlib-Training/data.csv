@@ -1,0 +1,76 @@
+Order_ID,Date,Category,Price_USD,Quantity,Discount_Pct,Payment_Method,Region,Rating
+1001,2026-01-05,Laptops,1200.0,1,0.05,Credit Card,Europe,4.8
+1002,2026-01-06,Smartphones,800.0,2,0.10,PayPal,North America,4.5
+1003,2026-01-08,Audio,150.0,3,0.00,Credit Card,Europe,4.2
+1004,2026-01-10,Accessories,25.0,5,0.15,Crypto,Asia,3.9
+1005,2026-01-12,Smartphones,950.0,1,0.00,Credit Card,North America,4.7
+1006,2026-01-15,Laptops,1450.0,1,0.10,Debit Card,Europe,4.9
+1007,2026-01-18,Tablets,450.0,2,0.05,PayPal,Asia,4.1
+1008,2026-01-20,Audio,200.0,1,0.00,Credit Card,North America,4.0
+1009,2026-01-22,Accessories,40.0,4,0.20,Crypto,Europe,3.5
+1010,2026-01-25,Smartphones,700.0,1,0.05,PayPal,North America,4.3
+1011,2026-01-28,Laptops,990.0,2,0.00,Credit Card,Asia,4.6
+1012,2026-02-01,Tablets,500.0,1,0.10,Debit Card,Europe,4.0
+1013,2026-02-03,Audio,120.0,2,0.00,PayPal,Asia,4.4
+1014,2026-02-05,Smartphones,1100.0,1,0.15,Credit Card,North America,4.8
+1015,2026-02-08,Accessories,15.0,10,0.25,Crypto,Europe,3.8
+1016,2026-02-10,Laptops,1300.0,1,0.05,Credit Card,North America,4.7
+1017,2026-02-12,Tablets,600.0,1,0.00,PayPal,Europe,4.2
+1018,2026-02-15,Audio,180.0,3,0.10,Credit Card,Asia,4.3
+1019,2026-02-18,Smartphones,850.0,2,0.05,Debit Card,Europe,4.6
+1020,2026-02-20,Accessories,50.0,2,0.00,PayPal,North America,4.1
+1021,2026-02-22,Laptops,1150.0,1,0.10,Credit Card,Asia,4.5
+1022,2026-02-25,Tablets,380.0,2,0.15,Crypto,Europe,3.9
+1023,2026-02-28,Smartphones,900.0,1,0.00,Credit Card,North America,4.7
+1024,2026-03-02,Audio,220.0,1,0.05,PayPal,Europe,4.4
+1025,2026-03-05,Accessories,30.0,6,0.10,Debit Card,Asia,4.0
+1026,2026-03-07,Laptops,1600.0,1,0.15,Credit Card,North America,4.9
+1027,2026-03-10,Smartphones,650.0,3,0.10,PayPal,Europe,4.2
+1028,2026-03-12,Tablets,480.0,1,0.00,Credit Card,Asia,4.3
+1029,2026-03-15,Audio,130.0,2,0.05,Crypto,North America,3.7
+1030,2026-03-18,Accessories,20.0,8,0.20,PayPal,Europe,3.9
+1031,2026-03-20,Laptops,1250.0,1,0.00,Debit Card,Europe,4.6
+1032,2026-03-22,Smartphones,1050.0,1,0.05,Credit Card,Asia,4.8
+1033,2026-03-25,Tablets,520.0,2,0.10,PayPal,North America,4.4
+1034,2026-03-28,Audio,210.0,1,0.00,Credit Card,Europe,4.1
+1035,2026-03-30,Accessories,45.0,3,0.05,Crypto,Asia,4.0
+1036,2026-04-02,Laptops,1400.0,1,0.10,Credit Card,North America,4.8
+1037,2026-04-05,Smartphones,780.0,2,0.00,PayPal,Europe,4.5
+1038,2026-04-08,Tablets,420.0,1,0.15,Debit Card,Asia,3.8
+1039,2026-04-10,Audio,160.0,4,0.10,Credit Card,North America,4.3
+1040,2026-04-12,Accessories,35.0,5,0.00,PayPal,Europe,4.2
+1041,2026-04-15,Laptops,1080.0,2,0.05,Credit Card,Asia,4.7
+1042,2026-04-18,Smartphones,920.0,1,0.10,Crypto,Europe,4.4
+1043,2026-04-20,Tablets,550.0,1,0.00,PayPal,North America,4.5
+1044,2026-04-22,Audio,190.0,2,0.05,Credit Card,Europe,4.2
+1045,2026-04-25,Accessories,28.0,7,0.15,Debit Card,Asia,3.9
+1046,2026-04-28,Laptops,1550.0,1,0.00,Credit Card,North America,5.0
+1047,2026-05-01,Smartphones,830.0,1,0.05,PayPal,Europe,4.3
+1048,2026-05-03,Tablets,460.0,3,0.10,Credit Card,Asia,4.1
+1049,2026-05-06,Audio,140.0,2,0.00,Crypto,North America,3.8
+1050,2026-05-08,Accessories,18.0,12,0.20,PayPal,Europe,4.0
+1051,2026-05-10,Laptops,1350.0,1,0.05,Debit Card,Europe,4.8
+1052,2026-05-12,Smartphones,1150.0,2,0.15,Credit Card,North America,4.9
+1053,2026-05-15,Tablets,390.0,1,0.00,PayPal,Asia,4.0
+1054,2026-05-18,Audio,230.0,1,0.10,Credit Card,Europe,4.5
+1055,2026-05-20,Accessories,50.0,2,0.05,Crypto,North America,4.1
+1056,2026-05-22,Laptops,1180.0,1,0.00,PayPal,Asia,4.6
+1057,2026-05-25,Smartphones,720.0,2,0.10,Debit Card,Europe,4.2
+1058,2026-05-28,Tablets,610.0,1,0.05,Credit Card,North America,4.6
+1059,2026-05-30,Audio,170.0,3,0.00,PayPal,Europe,4.3
+1060,2026-06-02,Accessories,22.0,9,0.15,Credit Card,Asia,3.7
+1061,2026-06-05,Laptops,1500.0,1,0.10,Crypto,North America,4.9
+1062,2026-06-08,Smartphones,880.0,1,0.00,PayPal,Europe,4.5
+1063,2026-06-10,Tablets,440.0,2,0.05,Debit Card,Asia,4.2
+1064,2026-06-12,Audio,200.0,2,0.10,Credit Card,North America,4.4
+1065,2026-06-15,Accessories,32.0,4,0.00,PayPal,Europe,4.1
+1066,2026-06-18,Laptops,1220.0,2,0.05,Credit Card,Europe,4.7
+1067,2026-06-20,Smartphones,990.0,1,0.10,Crypto,Asia,4.6
+1068,2026-06-22,Tablets,530.0,1,0.00,PayPal,North America,4.3
+1069,2026-06-25,Audio,150.0,3,0.15,Debit Card,Europe,3.9
+1070,2026-06-28,Accessories,40.0,3,0.05,Credit Card,Asia,4.2
+1071,2026-07-01,Laptops,1650.0,1,0.00,Credit Card,North America,5.0
+1072,2026-07-03,Smartphones,760.0,2,0.05,PayPal,Europe,4.3
+1073,2026-07-06,Tablets,470.0,1,0.10,Crypto,Asia,3.8
+1074,2026-07-08,Audio,240.0,1,0.00,Credit Card,North America,4.6
+1075,2026-07-10,Accessories,25.0,6,0.10,PayPal,Europe,4.0
